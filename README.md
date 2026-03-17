@@ -32,3 +32,4 @@ OpenClaw 在powershell常用command：
 openclaw onboard
 
 
+https://clawhub.ai/JimLiuxinghai/find-skills
