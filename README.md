@@ -24,3 +24,11 @@ Skill
 
 說明見：
 https://x.com/i/grok/share/32e77430111c4a77b9167ae1e4ff49ed
+
+
+OpenClaw 在powershell常用command：
+// https://x.com/i/grok/share/debd7ffc71a343a9869fb30ad2d5092b
+
+openclaw onboard
+
+
