@@ -21,3 +21,6 @@ skip住先
 
 Skill
 想選clawhub (因為開放，所以有惡意程式  ====>> 要小心)
+
+說明見：
+https://x.com/i/grok/share/32e77430111c4a77b9167ae1e4ff49ed
