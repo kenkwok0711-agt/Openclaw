@@ -8,6 +8,7 @@ AI agent setting -
 Windows (PowerShell)
 iwr -useb https://openclaw.ai/install.ps1 | iex
 
+選API
+OpenRouter
+入API KEY
 
-npm 
-npm install -g openclaw@latest
