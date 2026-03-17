@@ -31,5 +31,14 @@ OpenClaw 在powershell常用command：
 
 openclaw onboard
 
-
+//find-skills 係clawhub最多人安裝的Skill
 https://clawhub.ai/JimLiuxinghai/find-skills
+
+ 叫左佢分析、理解、安裝
+
+
+
+ 同事會叫Agent每日整一個 早會report
+
+誇張可以叫佢trade
+ 
