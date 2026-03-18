@@ -41,4 +41,23 @@ https://clawhub.ai/JimLiuxinghai/find-skills
  同事會叫Agent每日整一個 早會report
 
 誇張可以叫佢trade
+
+
+
+AI建議人設放入Memory.md
  
+# 我的長期記憶
+
+## 個人資訊
+- 名稱：Ken Kwok
+- 位置：香港
+- 語言偏好：繁體中文優先
+
+## 規則與風格
+- 回覆要簡潔、有條理，使用表格或清單
+- 不要假設我懂英文術語，除非我先說
+- 涉及隱私或錢的事，必須先問我確認
+
+## 重要決定
+- 偏好用 Claude 系列模型作為 main model
+- 圖片分析用 gpt-4o 或 qwen-vl
