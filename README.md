@@ -61,3 +61,10 @@ AI建議人設放入Memory.md
 ## 重要決定
 - 偏好用 Claude 系列模型作為 main model
 - 圖片分析用 gpt-4o 或 qwen-vl
+
+
+
+
+
+已經改bot名做alice
+基本上跟ProjectAlice相通...我的algotrade助理 :)
