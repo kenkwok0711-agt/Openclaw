@@ -68,3 +68,8 @@ AI建議人設放入Memory.md
 
 已經改bot名做alice
 基本上跟ProjectAlice相通...我的algotrade助理 :)
+
+
+openclaw gateway restart
+重開術
+解決了些卡loading bug
