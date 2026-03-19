@@ -73,3 +73,13 @@ AI建議人設放入Memory.md
 openclaw gateway restart
 重開術
 解決了些卡loading bug
+
+
+Install Skills 的command
+
+
+npx clawhub@latest install github
+npx clawhub@latest install
+xurl
+gog
+見之前記錄：npx clawhub@latest install skill-vetter
