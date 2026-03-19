@@ -83,3 +83,6 @@ npx clawhub@latest install
 xurl
 gog
 見之前記錄：npx clawhub@latest install skill-vetter
+
+
+https://github.com/wickedapp/openclaw-office
