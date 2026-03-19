@@ -86,3 +86,6 @@ gog
 
 
 https://github.com/wickedapp/openclaw-office
+cd C:\......\openclaw-office>
+npm start
+就可以開返個靚靚介面
