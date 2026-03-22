@@ -92,3 +92,25 @@ npm start
 
 
 DEBUG DE到HIHI
+
+
+set tg jobs
+
+
+又係搞下D Conffig
+
+netstat -ano | findstr :18789
+
+mkdir C:\Users\mwc40\.openclaw\devices-backup
+copy C:\Users\mwc40\.openclaw\devices\* C:\Users\mwc40\.openclaw\devices-backup\
+del C:\Users\mwc40\.openclaw\devices\pending.json
+del C:\Users\mwc40\.openclaw\devices\paired.json
+openclaw gateway restart --force
+
+openclaw devices approve --latest
+
+
+C:\Users\mwc40\openclaw-office
+
+
+無限BUG...
