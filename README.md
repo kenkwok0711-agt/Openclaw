@@ -114,3 +114,6 @@ C:\Users\mwc40\openclaw-office
 
 
 無限BUG...
+
+
+留Memory soul skill file等，估計重裝是最好方法
