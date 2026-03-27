@@ -117,3 +117,6 @@ C:\Users\mwc40\openclaw-office
 
 
 留Memory soul skill file等，估計重裝是最好方法
+
+
+找到個Easyclaw估計會更好用
